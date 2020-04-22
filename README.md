@@ -12,12 +12,6 @@ FRASES DOS DIA
 
 <p align = "center"> Aplicativo Gerador de frases desenvolvido em Flutter. </p>
 
-<p align = "center">
-  <a href="https://opensource.org/licenses/MIT">
-    <img src = "https://img.shields.io/badge/License-MIT-blue.svg" alt = "Licença MIT">
-  </a>
-</p>
-
 [//]: # (adicione seus gifs / imagens aqui :)
 <div>
   <img src = "https://i.imgur.com/s2To465.gif" alt = "demo" height = "585">
@@ -41,6 +35,12 @@ FRASES DOS DIA
 - Cole a URL<code>localhost/Sistema-de-Controle-de-Estacionamento</code>.
 
 ## Licença
+<p align = "center">
+  <a href="https://opensource.org/licenses/MIT">
+    <img src = "https://img.shields.io/badge/License-MIT-blue.svg" alt = "Licença MIT">
+  </a>
+</p>
+
 
 
 ----------------------------------------------------------------------------------------------------------------------------------
