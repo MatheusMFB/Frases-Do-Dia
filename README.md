@@ -15,6 +15,7 @@ FRASES DO DIA
 [//]: # (adicione seus gifs / imagens aqui :)
 <div align = "center">
   <img src = "https://i.imgur.com/SpYn2vZ.png" alt = "demo" height = "585">
+  <img src = "https://i.imgur.com/wiPJImc.gif" alt = "demo" height = "585">
 </div>
 
 <hr />
