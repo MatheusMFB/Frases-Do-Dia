@@ -26,9 +26,9 @@ FRASES DO DIA
 - 🅵 ** FLUTTER ** - Flutter é um SDK de código aberto criado pelo Google para o desenvolvimento de aplicativos para Android, iOS, Desktop ou Web.
 - 🅳 ** DART **  - Dart é uma linguagem de script voltada à web desenvolvida pela Google. 
 
-## Começando
+## Começando (Sistema Operacional Windows 10)
 [//]: # (adicione os recursos do seu projeto aqui :)
-	
+
 - Clone o repositório <code>git clone github.com/MatheusMFB/frases_do_dia.git</code>.
 - Use um editor de código ex: Visual Studio Code e etc.
 - Execute um emulador Android ou IOS.
