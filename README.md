@@ -31,7 +31,7 @@ FRASES DO DIA
 
 - Clone o repositório <code>git clone github.com/MatheusMFB/frases_do_dia.git</code>.
 - Use um editor de código ex: Visual Studio Code e etc.
-- Execute um emulador Android ou IOS.
+- Execute um emulador Android.
 - Abra os arquivos no Visual Studio Code.
 - E no terminal do Visual Studio Code execute o comando <code>flutter run</code>.
 
