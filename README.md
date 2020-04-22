@@ -1,4 +1,4 @@
-# frases_do_dia
+# frases-do-dia
 
 A new Flutter project.
 
