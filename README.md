@@ -13,7 +13,7 @@ FRASES DO DIA
 <p align = "center"> Aplicativo Gerador de frases desenvolvido em Flutter. </p>
 
 [//]: # (adicione seus gifs / imagens aqui :)
-<div>
+<div align = "center">
   <img src = "https://i.imgur.com/SpYn2vZ.png" alt = "demo" height = "585">
 </div>
 
