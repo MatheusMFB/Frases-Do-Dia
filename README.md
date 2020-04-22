@@ -29,11 +29,11 @@ FRASES DO DIA
 ## Começando
 [//]: # (adicione os recursos do seu projeto aqui :)
 	
-- Clone o repositório <code>git clone github.com/MatheusMFB/Sistema-de-Controle-de-Estacionamento.git</code>.
-- Use um servidor Local ex: xampp, wampp etc.
-- Coloque os arquivos na pasta HTDOCS e inicie o servidor Apache.
-- Abra um navegador qualquer ex: Chrome, Firefox etc.
-- Cole a URL<code>localhost/Sistema-de-Controle-de-Estacionamento</code>.
+- Clone o repositório <code>git clone github.com/MatheusMFB/frases_do_dia.git</code>.
+- Use um editor de código ex: Visual Studio Code e etc.
+- Execute um emulador Android ou IOS.
+- Abra os arquivos no Visual Studio Code.
+- E no terminal do Visual Studio Code execute o comando <code>flutter run</code>.
 
 ## Licença
 <p align = "center">
