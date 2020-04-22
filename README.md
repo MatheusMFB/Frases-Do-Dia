@@ -1,16 +1,46 @@
-# frases-do-dia
+# Frases do Dia
 
-A new Flutter project.
+----------------------------------------------------------------------------------------------------------------------------------
 
-## Getting Started
+<h1 align = "center">
+<br>
+  <img src="https://i.imgur.com/e1fqEzL.png" width="320">
+<br>
+<br>
+FRASES DOS DIA
+</h1>
 
-This project is a starting point for a Flutter application.
+<p align = "center"> Aplicativo Gerador de frases desenvolvido em Flutter. </p>
 
-A few resources to get you started if this is your first Flutter project:
+<p align = "center">
+  <a href="https://opensource.org/licenses/MIT">
+    <img src = "https://img.shields.io/badge/License-MIT-blue.svg" alt = "Licença MIT">
+  </a>
+</p>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+[//]: # (adicione seus gifs / imagens aqui :)
+<div>
+  <img src = "https://i.imgur.com/s2To465.gif" alt = "demo" height = "585">
+</div>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<hr />
+
+## Características
+[//]: # (adicione os recursos do seu projeto aqui :)
+
+- 🅵 ** FLUTTER ** - Flutter é um SDK de código aberto criado pelo Google para o desenvolvimento de aplicativos para Android, iOS, Desktop ou Web.
+- 🅳 ** DART **  - Dart é uma linguagem de script voltada à web desenvolvida pela Google. 
+
+## Começando
+[//]: # (adicione os recursos do seu projeto aqui :)
+	
+- Clone o repositório <code>git clone github.com/MatheusMFB/Sistema-de-Controle-de-Estacionamento.git</code>.
+- Use um servidor Local ex: xampp, wampp etc.
+- Coloque os arquivos na pasta HTDOCS e inicie o servidor Apache.
+- Abra um navegador qualquer ex: Chrome, Firefox etc.
+- Cole a URL<code>localhost/Sistema-de-Controle-de-Estacionamento</code>.
+
+## Licença
+
+
+----------------------------------------------------------------------------------------------------------------------------------
