@@ -7,7 +7,7 @@
   <img src="https://i.imgur.com/e1fqEzL.png" width="320">
 <br>
 <br>
-FRASES DOS DIA
+FRASES DO DIA
 </h1>
 
 <p align = "center"> Aplicativo Gerador de frases desenvolvido em Flutter. </p>
